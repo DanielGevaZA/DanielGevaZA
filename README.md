@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DanielGevaZA
+- 👀 I’m interested in gaining experience programming in projects wherever I can
+- 🌱 I’m currently learning Swift. 
+- 💞️ I’m looking to collaborate on open source projects specifically either Swift or Delphi Based.
+- I have experience in Arduino (C++ Based) and Delphi Programming. I have an ok understanding of Python but not too amazing. 
